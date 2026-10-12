@@ -1,2 +1,3 @@
 # KDEWallpapers
-All the KDE Plasma Wallpapers as of October 2026. Updated every major Plasma upgrade
+-
+All the KDE wallpapers I can find on my CachyOS laptop... use wisely! See release notes for more info.
